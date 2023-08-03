@@ -1,11 +1,9 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <a href="https://twitter.com/lleoserrano">
-  <img align="left" alt="Leonardo Serrano | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Leonardo Serrano | Twitter" width="22px" src="https://github.com/DevLSerrano/DevLSerrano/assets/62712813/0096b968-b17c-4fbd-ace6-5ed9faa88a0a" />
 </a>
 <a href="www.linkedin.com/in/leonardo-serrano-49090097">
-  <img align="left" alt="Leonardo Serrano LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Leonardo Serrano LinkedIN" width="22px" src="https://github.com/DevLSerrano/DevLSerrano/assets/62712813/b7f68d71-a03c-4755-b1b3-d923cbff7302" />
 </a>
  
 ![](https://visitor-badge.glitch.me/badge?page_id=DevLSerrano.DevLSerrano)
