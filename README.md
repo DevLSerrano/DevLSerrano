@@ -4,7 +4,7 @@
 <a href="https://twitter.com/lleoserrano">
   <img align="left" alt="Leonardo Serrano | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/leonardo-serrano-49090097/">
+<a href="www.linkedin.com/in/leonardo-serrano-49090097">
   <img align="left" alt="Leonardo Serrano LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
  
