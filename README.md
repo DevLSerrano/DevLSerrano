@@ -11,19 +11,18 @@
 <br />
 <p align="center"><img align="center" alt="Dash" src="https://user-images.githubusercontent.com/62712813/149622353-5e6c0e98-debf-4d6e-b594-f04322174864.png" width="300" height="150" />
 
-#### Hi, I'm Leonardo Serrano, a passionate for developing and tecnology.
-I like to study, architecture, and code with big quality the things I build.
-I am also an open-source enthusiast.
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-Today my big passion is Flutter and Dart, I love this tecnology, it change my life.
+#### Hi, I'm Leonardo Serrano.
+As a dedicated Flutter developer, I specialize in creating dynamic and scalable mobile applications.
+My expertise includes Flutter & Dart development, REST API integration, and maintaining high standards in project architecture.
+My journey in technology is fueled by a passion for learning and a commitment to contributing to the open-source community, where I actively engage in knowledge sharing and collaboration.
 
 
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/62712813/149622197-68853b07-fc3a-4808-b9ec-7c9dec69a78e.gif" width="500" height="320" />
   
-- 💼 Any work? Send-me, I participate in many Flutter communities. [email](mailto:dev.leonardoserrano@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 💼 Any work? Send me; I participate in many Flutter communities. [email](mailto:dev.leonardoserrano@gmail.com) :)
+- 💬 Ask me about anything; I am happy to help.
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/62712813/149622747-f74b8857-de9f-4a1c-937c-33b42c698999.jpg"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/62712813/149622807-3e63b9e8-895d-46e7-a348-84b75e2564a4.png"></code>
@@ -31,7 +30,7 @@ Today my big passion is Flutter and Dart, I love this tecnology, it change my li
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me coffee or tea. 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/leonardoserrano" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
